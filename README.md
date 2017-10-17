@@ -12,9 +12,7 @@ Guidelines for running Code:
 
 Description:
 This chatbot answers your query related to navigating three of Lexisnexis modules which are :
-Litigation Profile Suite
-Lexis Advance Tax
-Interactive Citation Workstation
+Litigation Profile Suite,Lexis Advance Tax,Interactive Citation Workstation
 
 Now how the answer is strcutured:
 
@@ -22,7 +20,9 @@ i) First line you '' get modulename your query is related to.
 ii) Third line contains exact url containing the information you asked for.
 
 Demo:
+
 User Said: search for judge
+
 BotResponse: Your question is related to. Litigation Profile Suite
 For Detailed step-by-step info you can goto:
 http://help.lexisnexis.com/tabula-rasa/newlexis/lpssearchlexisweb_hdi-task?lbu=US&locale=en_US&audience=lps
