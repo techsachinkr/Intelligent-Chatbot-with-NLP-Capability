@@ -17,6 +17,7 @@ Litigation Profile Suite,Lexis Advance Tax,Interactive Citation Workstation
 Now how the answer is strcutured:
 
 i) First line you '' get modulename your query is related to.
+
 ii) Third line contains exact url containing the information you asked for.
 
 Demo:
