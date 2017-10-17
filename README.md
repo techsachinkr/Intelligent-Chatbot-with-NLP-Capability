@@ -1,4 +1,5 @@
-# NLP-Based--Chatbot
+# Intelligent-Chatbot-with-NLP-Capability
+
 NLP based chatbot developed duringLexis Nexis Hackathon for answering queries related to LexisNexis Online Help System
 
 Guidelines for running Code:
