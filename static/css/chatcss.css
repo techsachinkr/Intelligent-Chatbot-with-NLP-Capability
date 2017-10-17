@@ -1,0 +1,21 @@
+body { 
+	color: darkslategrey; font-weight: bold; font-size: 18px; background: gray; 
+	 background-size: cover; 
+}
+span { 
+	color: darkslategrey; 
+} 
+::-webkit-input-placeholder { 
+	color: white 
+}
+
+#main { 
+	position: fixed; top: 40%; right: 60px; width: 400px; 
+	border: 0px solid white; padding: 40px; 
+}
+#main div { 
+	margin: 10px; 
+} 
+#input { 
+	border: 2; background: #F4D5DA; padding: 5px; border: 1px solid darkslategrey; 
+}
